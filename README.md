@@ -36,7 +36,7 @@ typst compile main.typ
 
 Licensed under the [MIT-0 License](LICENSE).
 
-Free to use, modify, and share — no attribution required. ౨ৎ
+Free to use, modify, and share, no attribution required. ౨ৎ
 
 
 
