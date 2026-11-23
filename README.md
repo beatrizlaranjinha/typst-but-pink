@@ -32,6 +32,12 @@ cd typst-but-pink-
 typst compile main.typ
 ```
 
+♡ License
+
+Licensed under the [MIT-0 License](LICENSE).
+
+Free to use, modify, and share — no attribution required. ౨ৎ
+
 
 
 Made with ♡, Typst, and a little too much pink. ౨ৎ
