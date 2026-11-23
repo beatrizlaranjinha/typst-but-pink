@@ -10,7 +10,7 @@ typst but pink ౨ৎ
 
 ♡ Preview
 
-In the making
+![Preview of the pink Typst report](image.png)
 
 
 
